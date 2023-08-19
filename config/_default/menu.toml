@@ -1,24 +1,24 @@
 # Configure main menu and social menu
 #[[main]]
 #identifier = "home"
-#name = "Home"
+#name = "Test111"
 #url = "/"
 #[main.params]
 #icon = "home"
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/irefill_it/"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-instagram"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "youtube"
+name = "Youtube"
+url = "https://www.youtube.com/watch?v=5Eiof847lMg&t=7s&ab_channel=SustainabilityFestival"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-youtube"

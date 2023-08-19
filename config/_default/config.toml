@@ -1,9 +1,3 @@
-# Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
-languageCode = "en-us"
-paginate = 5
-title = "Hugo Theme Stack Starter"
-
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "en"
@@ -14,3 +8,31 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
+
+# Change baseurl before deploy
+baseurl = "https://blog.irefill.it"
+languageCode = "it"
+paginate = 5
+title = "iRefill"
+
+[languages]
+  [languages.it]    
+    languageName = 'Italiano'
+    subtitle = "test italiano"
+    weight = 1  
+
+  [languages.de]    
+    languageName = 'Deutsch'
+    weight = 2
+  [languages.en]    
+    languageName = 'English'
+    weight = 3
+
+
+[author]
+  [author.sebastian]
+    name = "Sebastian Cavada"
+  [author.giulia]
+    name = "Giulia Cramarossa"
+  [author.annalisa]
+    name = "Annalisa Cavada"
