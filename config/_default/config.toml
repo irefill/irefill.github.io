@@ -10,7 +10,7 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 # Change baseurl before deploy
-baseurl = "https://irefill.github.io"
+baseurl = "https://irefill.it"
 languageCode = "it"
 paginate = 5
 title = "iRefill"
