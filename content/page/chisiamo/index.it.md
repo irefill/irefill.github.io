@@ -31,7 +31,8 @@ le nostre esperienze personali e idee creative.
 
 ## Giulia
 
-Ciao io sono Giulia!...
+Mi chiamo Giulia e sono studentessa di psicologia. Spostandomi in diverse parti d’Europa negli scorsi anni ho sempre cercato di adattarmi nella maniera più sostenibile alla realtà che stavo vivendo. Così ho potuto conoscere difficoltà ma soprattutto soluzioni specifiche, che però possono essere assimilate ai bisogni di altri posti. 
+Passare il tempo nella natura mi appassiona. Mi piacciono i concetti e le invenzioni che rispettano lei e tutto quello che contiene. Le parole protezione e innovazione attirano la mia attenzione.
 
 ## Sebastian
 
